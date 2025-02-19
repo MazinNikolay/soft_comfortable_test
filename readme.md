@@ -21,15 +21,15 @@ n: Integer<br>
 - Swagger<br>
   <br>
 Сборка проекта :<br>
-  Убедитесь, что у вас установлен Maven.<br>
-  Выполните команду для сборки проекта:<br>
-  mvn clean package<br>
-  <br>
-  Запуск приложения :<br>
-  Запустите приложение с помощью команды:<br>
-  java -jar target/<имя-файла>.jar<br>
-  <br>
-  Приложение будет доступно по адресу: http://localhost:8080.<br>
-  Документация API :<br>
-  Swagger UI доступен по адресу: http://localhost:8080/swagger-ui.html
+Убедитесь, что у вас установлен Maven.<br>
+Выполните команду для сборки проекта:<br>
+mvn clean package<br>
+<br>
+Запуск приложения :<br>
+Запустите приложение с помощью команды:<br>
+java -jar target/<имя-файла>.jar<br>
+<br>
+Приложение будет доступно по адресу: http://localhost:8080.<br>
+Документация API :<br>
+Swagger UI доступен по адресу: http://localhost:8080/swagger-ui.html
   
